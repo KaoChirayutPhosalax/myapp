@@ -409,7 +409,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "khlongYai",
+        "p": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -564,7 +567,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "MueangTrat",
+        "p": 0
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -819,7 +825,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "LaemNgop",
+        "p": 0
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -938,7 +947,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "KhaoSaming",
+        "p": 0
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1069,7 +1081,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "BoRai",
+        "p": 0
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
