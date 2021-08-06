@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "KoChang",
-        "p": 0
+        name: "KoChang",
+        p: 111.9
       },
       "geometry": {
         "type": "Polygon",
